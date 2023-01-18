@@ -3,7 +3,7 @@
 
 # Base ----------------------------------------
 imageai
-tensorflow
+tensorflow-gpu
 opencv-python
 keras
 matplotlib>=3.2.2
