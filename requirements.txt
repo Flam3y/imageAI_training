@@ -2,6 +2,7 @@
 # Usage: pip install -r requirements.txt
 
 # Base ----------------------------------------
+imageai
 tensorflow
 opencv-python
 keras
