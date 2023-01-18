@@ -1,7 +1,10 @@
-# YOLOv3 requirements
+# Training requirements
 # Usage: pip install -r requirements.txt
 
 # Base ----------------------------------------
+tensorflow
+opencv-python
+keras
 matplotlib>=3.2.2
 numpy>=1.18.5
 opencv-python>=4.1.1
